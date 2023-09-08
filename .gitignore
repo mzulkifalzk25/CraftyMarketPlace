@@ -1,0 +1,233 @@
+# Byte-compiled / optimized Python files
+__pycache__/
+*.pyc
+*.pyo
+__init__.pyc
+__init__.pyo
+
+# Caches and logs
+*.log
+logs/
+*.sqlite3
+
+# Secret key
+*.secret_key
+
+# Environment variables
+.env
+
+# Static files
+staticfiles/
+
+# Media files
+media/
+
+# Site-specific settings
+local_settings.py
+
+# IDE-specific files and directories
+.idea/
+.vscode/
+
+# Dependency directories
+venv/
+env/
+env_*/
+
+# Compiled Python files
+*.pyc
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+
+# Translations
+*.mo
+*.pot
+
+# Django stuff:
+*.log
+local_settings.py
+db.sqlite3
+db.sqlite3-journal
+
+# Flask stuff:
+instance/
+.webassets-cache
+
+# Scrapy stuff:
+.scrapy
+
+# Sphinx documentation
+docs/_build/
+
+# PyBuilder
+target/
+
+# IPython Notebook
+.ipynb_checkpoints
+
+# pyenv
+.python-version
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# SageMath
+.sageMath/
+.sageMathCell
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Visual Studio Code
+.vscode/
+
+# Sublime Text
+*.sublime-workspace
+*.sublime-project
+
+# IntelliJ IDEA
+.idea/
+
+# macOS
+.DS_Store
+
+# Thumbnails
+._*
+
+# Node.js
+node_modules/
+npm-debug.log*
+
+# Compiled Python files
+*.pyc
+
+# Compiled source #
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# Packages #
+# it's better to unpack these files and commit the raw source
+# git has its own built in compression methods
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+*.gz
+*.lzma
+*.xz
+*.bz2
+*.cab
+*.tgz
+*.txz
+*.zip
+*.tar.gz
+*.tar.bz2
+*.tar.xz
+*.tar.lzma
+*.tar.LZ
+*.tar.bz2
+*.bz2
+*.7z
+*.bz
+*.cpio
+*.lz
+*.lzma
+*.lzo
+*.xz
+*.z
+*.Z
+*.zip
+*.Z
+*.z2
+*.z3
+*.z4
+*.z5
+*.z6
+*.z7
+*.z8
+*.zz
+
+# Logs and databases
+*.log
+*.sql
+*.sqlite
+*.sqlite3
+*.db
+*.backup
+*.save
+*.sql
+*.sql.gz
+
+# OS generated files #
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+##############
+._*
+Thumbs.db
+
+# Files that might appear on external disks
+.Spotlight-V100
+.Trashes
+
+# Directories potentially created on remote AFP share
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
